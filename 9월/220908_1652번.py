@@ -27,5 +27,6 @@ print(row_cnt,col_cnt)
 XXXXXX
 일 때, 
 output: 4 6
-answer: 5 8 이지 않을까하는 생각이 들어서 적어보았어요!
+answer: 5 8
+인 것 같아서 적어보았어요!
 '''
