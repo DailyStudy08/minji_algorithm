@@ -22,12 +22,12 @@ def powerset(idx,cnt,status):
 cm = []
 for _ in range(9):
     cm.append(int(input()))
-sorted(cm)
-M = 9
-K = 7
-status = [0] * 9
+sorted(cm)  # 정렬해줌
+M = 9    # 전체 난쟁이의 수
+K = 7    # 우리가 구해야 하는 난쟁이 수
+status = [0] * 9  # 상태 표시를 위한 lst  그 위치에 맞는 인덱스의 유무 나타냄
 lst = []
-powerset(0,0,status)
+powerset(0,0,status) # 집합 구하는 함수  초기값 설정 idx: 0 cnt: 0 status:
 # print(lst)
 for i in range(len(lst)):
     sum_cm = []

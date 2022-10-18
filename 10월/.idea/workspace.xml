@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e433c1d-0d58-4970-8ed4-48bf730bff0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/221007_2309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221008_10163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221008_2605.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221008_2669.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/221007_1547.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/221008_1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/221007_13300.py" afterDir="false" />
+    <list default="true" id="51ea043b-245e-4ea4-a7f8-ef17e14e4a5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/221010_1244.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221010_2578.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221010_2628.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221011_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221011_2491.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/월말평가1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/221007_2309.py" beforeDir="false" afterPath="$PROJECT_DIR$/221007_2309.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/221008_10163.py" beforeDir="false" afterPath="$PROJECT_DIR$/221008_10163.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +33,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FoFT1ERBUTu3O58Kn7DhkMMxlj" />
+  <component name="ProjectId" id="2FzNTVESi47gX1THze5wt81ysXW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e433c1d-0d58-4970-8ed4-48bf730bff0f" name="Changes" comment="" />
-      <created>1665150534689</created>
+      <changelist id="51ea043b-245e-4ea4-a7f8-ef17e14e4a5c" name="Changes" comment="" />
+      <created>1665490960943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665150534689</updated>
+      <updated>1665490960943</updated>
     </task>
     <servers />
   </component>
@@ -69,34 +71,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221007_13300.py</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/221011_.py</url>
+          <line>14</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221007_13300.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/221011_.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221007_2309.py</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/월말평가1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/월말평가1.py</url>
+          <line>14</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221007_2309.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221008_2605.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/221008_2605.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

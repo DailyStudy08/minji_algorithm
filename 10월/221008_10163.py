@@ -4,7 +4,7 @@
 # ex) 1 4 3 2 이면 (1,4) 가장 왼쪽 아래  너비 3 높이 2
 # 경계 밖으로 나가는 경우는 없음
 N = int(input())
-arr =[[0]*1001 for _ in range(1001)]
+arr =[[0]*1002 for _ in range(1002)]
 x_lst =[]
 y_lst =[]
 for k in range(1,N+1):
